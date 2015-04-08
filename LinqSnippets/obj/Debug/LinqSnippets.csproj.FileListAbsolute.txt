@@ -1,6 +1,0 @@
-c:\users\nelder.hrt\documents\visual studio 2013\Projects\LinqSnippets\LinqSnippets\bin\Debug\LinqSnippets.exe.config
-c:\users\nelder.hrt\documents\visual studio 2013\Projects\LinqSnippets\LinqSnippets\bin\Debug\LinqSnippets.exe
-c:\users\nelder.hrt\documents\visual studio 2013\Projects\LinqSnippets\LinqSnippets\bin\Debug\LinqSnippets.pdb
-c:\users\nelder.hrt\documents\visual studio 2013\Projects\LinqSnippets\LinqSnippets\obj\Debug\LinqSnippets.csprojResolveAssemblyReference.cache
-c:\users\nelder.hrt\documents\visual studio 2013\Projects\LinqSnippets\LinqSnippets\obj\Debug\LinqSnippets.exe
-c:\users\nelder.hrt\documents\visual studio 2013\Projects\LinqSnippets\LinqSnippets\obj\Debug\LinqSnippets.pdb
