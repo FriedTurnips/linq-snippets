@@ -8,14 +8,21 @@ namespace LinqSnippets
 {
     class Program
     {
+        static string RunExtensions()
+        {
+            return "todo";
+        }
         static void Main(string[] args)
         {
-            List<int> list = new List<int>() { 1, 2, 3, 4, 5 };
-            List<int> list1 = new List<int>() { 1, 5, 6, 7 };
+            List<int> list = Enumerable.Range(1, 10).ToList<int>();
+            List<int> list1 = Enumerable.Range(8, 17).ToList<int>();
 
             int oddIndex = list.FindIndex(x => x % 2 != 0);
 
             List<string> list2 = new List<string>() { "Sleeves", "Shorts", "Hats"};
+
+            string upper = "geronimo";
+            upper = upper.UpperCaseFirstCharacter();
 
             var result = list2.Select(x => x.ToUpper());
 
